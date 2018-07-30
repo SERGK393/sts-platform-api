@@ -1,0 +1,21 @@
+.add{
+    margin-bottom: 20px;
+}
+.add .sku{
+    width: 100px;
+}
+.add .value{
+    width: 40px;
+}
+.edit .value{
+    width: 50px;
+}
+.edit .brand, .edit .sku{
+    vertical-align: middle;
+    display: inline-block;
+    text-align: center;
+    width: 60px;
+}
+.rule.hided{
+    display: none;
+}
